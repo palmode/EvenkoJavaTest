@@ -1,0 +1,24 @@
+# Ignore all compiled Java class files
+*.class
+
+# Ignore MacOS hidden files
+.DS_Store
+
+# Ignore Windows hidden files
+Thumbs.db
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore NetBeans project files
+nbproject/private/
+
+# Ignore VS Code workspace files
+.vscode/
